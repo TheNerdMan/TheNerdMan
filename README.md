@@ -2,7 +2,7 @@
 
 My name is Alex, and I'm a programmer. Sometimes those programs get finished, and sometimes they even work! ✨
 
-- 🔭 I’m currently working on, a simple bot to help with my dnd server, a dobble clone that re-creates the card game with any number of icons, minecraft servers I use to play with friends.
+- 🔭 I’m currently working on, Momentum Mod's website.
 - 🌱 I’m currently learning, how to linux properly, other things I've forgotten.
 - 👯 I’m looking to collaborate on, any video games that need a game dev n00b, open source projects that help any community.
 - 🤔 I’m looking for help with, any of the projects I'm working on - I'm always looking for motivation 😅.
