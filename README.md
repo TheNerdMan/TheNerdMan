@@ -13,6 +13,3 @@ My name is Alex, and I'm a programmer. Sometimes those programs get finished, an
           
      Discord: TheNerdMan#2357
      
-     Twitter: [@alex.dave999](https://twitter.com/AlexDave999)
-     
-     > Side Note: I rarely use twitter, it never grabbed me for some reason 🤷
