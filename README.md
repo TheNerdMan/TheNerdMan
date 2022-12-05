@@ -2,7 +2,7 @@
 
 My name is Alex, and I'm a programmer. Sometimes those programs get finished, and sometimes they even work! ✨
 
-- 🔭 I’m currently working on, Momentum Mod's Backend API and Website. Also a GUI for Android Development Bridge (ABD) because I always forget the commands and need it for my job.
+- 🔭 I’m currently working on VGM at [Motasoft](www.motasoft.co.uk) and not much else to try and keep burnout at bay.
 - 🌱 I’m currently learning, how to dockerize projects properly.
 - 👯 I’m looking to collaborate on, any video games that need a game dev n00b, open source projects that help any community.
 - 🤔 I’m looking for help with, any of the projects I'm working on - I'm always looking for motivation 😅.
