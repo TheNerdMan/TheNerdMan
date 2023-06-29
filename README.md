@@ -2,7 +2,7 @@
           
 My name is Alex, and I'm a programmer. Sometimes those programs get finished, and sometimes they even work! ✨
 
-- 🔭 I’m currently working on ClariNetLS at [Clearlife]([www.motasoft.co.uk](https://www.clearlifeltd.com/)).
+- 🔭 I’m currently working on ClariNetLS at [Clearlife](https://www.clearlifeltd.com/).
 - 🌱 I’m currently learning, how to dockerize projects properly.
 - 👯 I’m looking to collaborate on, any video games that need a game dev n00b, open source projects that help any community.
 - 🤔 I’m looking for help with, any of the projects I'm working on - I'm always looking for motivation 😅.
